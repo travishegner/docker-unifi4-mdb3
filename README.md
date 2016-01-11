@@ -16,4 +16,4 @@ In the meantime, if you /need/ to install a package to a running container, you 
 
 # Enhancements to original
  * Fixed permissions to allow the service to run as "nobody".
- * Added an `init.sh` script to launch the unifi service, as well as capture signals to allow the clean termination of the mongodb instance, just in case the unifi service didn't terminate it properly. 
+ * Added an `init.sh` script to launch the unifi service, as well as capture signals to allow the clean termination of the mongodb instance, just in case the unifi service didn't terminate it properly. Most of the init.sh is based on the original unifi init script.
