@@ -1,3 +1,7 @@
+# Archive Note
+Archiving this repo because it's no longer needed for compressed mongo data. Please use the linuxserver.io package at: https://hub.docker.com/r/linuxserver/unifi-controller
+
+
 # docker-unifi4-mdb3
 Dockerfile for unifi4 with mongodb3.2. Originally based on the work by https://github.com/jacobalberty/unifi-docker, but has diverged significantly.
 
